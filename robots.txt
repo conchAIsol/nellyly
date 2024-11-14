@@ -1,0 +1,133 @@
+User-agent: AI2Bot
+Disallow: /
+
+User-agent: Ai2Bot-Dolma
+Disallow: /
+
+User-agent: Applebot-Extended
+Disallow: /
+
+User-agent: Bytespider
+Disallow: /
+
+User-agent: CCBot
+Disallow: /
+
+User-agent: ChatGPT-User
+Disallow: /
+
+User-agent: Claude-Web
+Disallow: /
+
+User-agent: ClaudeBot
+Disallow: /
+
+User-agent: Diffbot
+Disallow: /
+
+User-agent: FacebookBot
+Disallow: /
+
+User-agent: FriendlyCrawler
+Disallow: /
+
+User-agent: GPTBot
+Disallow: /
+
+User-agent: Google-Extended
+Disallow: /
+
+User-agent: ICC-Crawler
+Disallow: /
+
+User-agent: ImagesiftBot
+Disallow: /
+
+User-agent: Meta-ExternalAgent
+Disallow: /
+
+User-agent: OAI-SearchBot
+Disallow: /
+
+User-agent: PerplexityBot
+Disallow: /
+
+User-agent: PetalBot
+Disallow: /
+
+User-agent: Scrapy
+Disallow: /
+
+User-agent: Timpibot
+Disallow: /
+
+User-agent: VelenPublicWebCrawler
+Disallow: /
+
+User-agent: Webzio-Extended
+Disallow: /
+
+User-agent: YouBot
+Disallow: /
+
+User-agent: anthropic-ai
+Disallow: /
+
+User-agent: cohere-ai
+Disallow: /
+
+User-agent: iaskspider/2.0
+Disallow: /
+
+User-agent: img2dataset
+Disallow: /
+
+User-agent: omgili
+Disallow: /
+
+User-agent: omgilibot
+Disallow: /
+
+User-agent: *
+Disallow: /tncms/tracking/
+Disallow: /_services/
+Disallow: /tncms/tax/
+Disallow: /tncms/messaging/
+Disallow: /tncms/gtm/
+Disallow: /tncms/track/
+Disallow: /tncms/webservice/
+Disallow: /tncms/block/
+Disallow: /tncms/openid2/
+Disallow: /tncms/counter/
+Disallow: /tncms/weather/
+Disallow: /tncms/openweb/*
+Disallow: /tncms/csrf/
+Disallow: /tncms/admin/
+Disallow: /tncms/auth/
+Disallow: /tncms/media/
+Disallow: /tncms/search/
+Disallow: /tncms/dmp/
+Disallow: /classifieds/*?
+Disallow: /tncms/calendar/
+Disallow: /calendar/search/
+Disallow: /content/tncms/assets/v3/form/
+Disallow: /content/tncms/form/
+Disallow: /tncms/user/
+Disallow: /users/admin/
+Disallow: /users/*/?
+Disallow: /tncms/disqus/
+Disallow: /marketplace/*action=srch
+Disallow: /content/tncms/
+
+Sitemap: https://www.wpsdlocal6.com/sitemap.xml
+Sitemap: https://www.wpsdlocal6.com/tncms/sitemap/editorial.xml
+Sitemap: https://www.wpsdlocal6.com/tncms/sitemap/editorial.xml?year=2014
+Sitemap: https://www.wpsdlocal6.com/tncms/sitemap/editorial.xml?year=2015
+Sitemap: https://www.wpsdlocal6.com/tncms/sitemap/editorial.xml?year=2016
+Sitemap: https://www.wpsdlocal6.com/tncms/sitemap/editorial.xml?year=2017
+Sitemap: https://www.wpsdlocal6.com/tncms/sitemap/editorial.xml?year=2018
+Sitemap: https://www.wpsdlocal6.com/tncms/sitemap/editorial.xml?year=2019
+Sitemap: https://www.wpsdlocal6.com/tncms/sitemap/editorial.xml?year=2020
+Sitemap: https://www.wpsdlocal6.com/tncms/sitemap/editorial.xml?year=2021
+Sitemap: https://www.wpsdlocal6.com/tncms/sitemap/editorial.xml?year=2022
+Sitemap: https://www.wpsdlocal6.com/tncms/sitemap/editorial.xml?year=2023
